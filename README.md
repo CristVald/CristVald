@@ -14,8 +14,11 @@
 
 I am a Data Scientist based in Lima, Peru, with extensive training in Data Science from Soy Henry. Additionally, I have completed a Data Analyst Bootcamp on Udemy. My education has equipped me with strong capabilities in data analysis, predictive modeling, and data visualization. I am skilled in tools such as Python, SQL, Power BI, Tableau, Docker, and Spark, which I leverage to extract valuable insights from large datasets. Throughout my training, I have engaged in various projects, including the development of predictive models and the creation of interactive dashboards. I am passionate about using data to tackle complex challenges and drive business success. Currently, I am seeking a full-time position where I can apply my skills and contribute to data-driven decision-making and strategic initiatives.
 
+<div align="center">
 
-## 🎓 Education
+<h1 style="font-size: 3em; font-weight: bold;"> Education 🎓 </h1>
+
+</div>
 
 ### **Academia SoyHenry**
 **Certification in Data Science**  
