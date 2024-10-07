@@ -75,8 +75,5 @@ Completed "The Data Analyst Course: Complete Data Analyst Bootcamp" (Jun 2024)
 </p>
 
 
-<!--
-**CristVald/CristVald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
