@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<h1 style="font-size: 3em; font-weight: bold;"> My name is Cristofer Valdiviezo 👨‍💻 </h1>
+<h1 style="font-size: 3em; font-weight: bold;"> My name is Cristofer Valdiviezo 👨🏽‍💻 </h1>
 
 </div>
 
