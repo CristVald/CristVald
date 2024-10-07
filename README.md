@@ -58,6 +58,19 @@ Completed "The Data Analyst Course: Complete Data Analyst Bootcamp" (Jun 2024)
 ☁️ **Cloud Services:**  
 [![Render](https://img.shields.io/badge/Render-4D63C0?style=flat&logo=render&logoColor=white)](https://render.com/) [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 
+<p align="center">
+  🤝 <strong>Connect With Me</strong> 🤝
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristofer-valdiviezo-5b813b205" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:datacristofer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 
 <!--
 **CristVald/CristVald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
