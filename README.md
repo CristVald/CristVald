@@ -25,7 +25,7 @@ I am a Data Scientist based in Lima, Peru, with extensive training in Data Scien
 **Certification in Data Science**  
 Data Science (July 2023 - October 2024)
 
-Bachelor's degree specialized in Data Science. Proficient in advanced analytics and machine learning techniques. Skilled in utilizing Power BI and Tableau for data analytics.
+Specialized certification in Data Science. Proficient in advanced analytics and machine learning techniques. Skilled in utilizing Power BI and Tableau for data analytics.
 
 ### **Udemy**
 **Certification in Data Analisys**  
